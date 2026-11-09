@@ -1,7 +1,9 @@
 app_name = "avpay_tz"
 app_title = "AVPAY TZ"
 app_publisher = "eliusmgani"
-app_description = "Payment Providers, Payment Integration, Payment Collection and Disbursement for Tanzania\'s Businesses"
+app_description = (
+	"Payment Providers, Payment Integration, Payment Collection and Disbursement for Tanzania's Businesses"
+)
 app_email = "emgani@aakvatech.com"
 app_license = "mit"
 
@@ -263,4 +265,3 @@ app_license = "mit"
 # ------------
 # List of apps whose translatable strings should be excluded from this app's translations.
 # ignore_translatable_strings_from = []
-
